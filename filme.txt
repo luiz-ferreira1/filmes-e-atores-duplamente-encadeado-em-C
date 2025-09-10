@@ -1,0 +1,100 @@
+O Poderoso Chefão
+3
+Marlon Brando
+Al Pacino
+James Caan
+Um Sonho de Liberdade
+3
+Tim Robbins
+Morgan Freeman
+Bob Gunton
+A Origem 
+3
+Leonardo DiCaprio
+Joseph Gordon-Levitt
+Ellen Page
+O Senhor dos Anéis: A Sociedade do Anel
+3
+Elijah Wood
+Ian McKellen
+Viggo Mortensen
+Clube da Luta
+3
+Brad Pitt
+Edward Norton
+Helena Bonham Carter
+Matrix
+3
+Keanu Reeves
+Laurence Fishburne
+Carrie-Anne Moss
+Interestelar
+3
+Matthew McConaughey
+Anne Hathaway
+Jessica Chastain
+Forrest Gump
+3
+Tom Hanks
+Robin Wright
+Gary Sinise
+Gladiador
+3
+Russell Crowe
+Joaquin Phoenix
+Connie Nielsen
+Titanic
+3
+Leonardo DiCaprio
+Kate Winslet
+Billy Zane
+Pulp Fiction
+3
+John Travolta
+Samuel L. Jackson
+Uma Thurman
+O Rei Leão
+3
+Matthew Broderick
+James Earl Jones 
+Jeremy Irons
+De Volta para o Futuro
+3
+Michael J. Fox
+Christopher Lloyd
+Lea Thompson
+Jurassic Park
+3
+Sam Neill
+Laura Dern
+Jeff Goldblum
+O Silêncio dos Inocentes
+3
+Jodie Foster
+Anthony Hopkins
+Scott Glenn
+Os Infiltrados
+3
+Leonardo DiCaprio
+Matt Damon
+Jack Nicholson
+Coringa
+3
+Joaquin Phoenix
+Robert De Niro
+Zazie Beetz
+Vingadores: Ultimato
+3
+Robert Downey Jr.
+Chris Evans
+Scarlett Johansson
+Batman: O Cavaleiro das Trevas
+3
+Christian Bale
+Heath Ledger
+Aaron Eckhart
+Cidade de Deus
+3
+Alexandre Rodrigues
+Leandro Firmino
+Douglas Silva
